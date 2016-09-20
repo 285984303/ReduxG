@@ -75,6 +75,7 @@ class Girl extends Component {
             navigator.pop();
             return true;
         }
+        //退出
         return false;
 
     }
