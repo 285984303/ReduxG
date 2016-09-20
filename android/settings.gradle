@@ -1,0 +1,3 @@
+rootProject.name = 'ReduxG'
+
+include ':app'
