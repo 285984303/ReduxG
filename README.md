@@ -1,4 +1,4 @@
-# ReduxG
+# ReduxG  博客地址： http://blog.csdn.net/u014360817
 
 
 ![这里写图片描述](http://img.blog.csdn.net/20161013223223599)
